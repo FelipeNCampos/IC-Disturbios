@@ -1,0 +1,42 @@
+Resumo
+Este projeto propõe uma abordagem que permeia a saúde pública e a tecnologia, visando melhorar a qualidade de vida de indivíduos afetados por distúrbios digestivos, como a doença celíaca, intolerâncias alimentares diversas, e alergias. Reconhecendo os desafios únicos enfrentados por aqueles que necessitam de vigilância constante sobre sua dieta, este trabalho se dedica ao desenvolvimento e avaliação de aplicativos móveis que servem tanto como ferramentas de identificação de ingredientes potencialmente nocivos em produtos alimentícios quanto como plataformas educacionais para gerenciamento de distúrbios digestivos. Combinando a análise rigorosa da eficácia de soluções tecnológicas existentes com a criação de novas aplicações baseadas nas necessidades reais e feedback do usuário, o projeto visa fornecer uma solução abrangente que facilite a detecção de alérgenos e outros componentes indesejados, promovendo assim uma alimentação segura e informada. Além disso, espera-se que o desenvolvimento dessa tecnologia assistiva estimule a inclusão social e alimentar, reduza a ansiedade relacionada à alimentação e contribua para a saúde e bem-estar geral de indivíduos com distúrbios digestivos. Este projeto representa um esforço colaborativo multidisciplinar, integrando conhecimentos da gastroenterologia, nutrição, ciência da computação e design de interação, para abordar uma necessidade crítica na saúde pública através da inovação tecnológica.
+
+Introdução/Justificativa
+(incluindo os benefícios esperados no processo ensino-aprendizagem e o retorno para os cursos e para os professores da instituição em geral)
+A gestão eficaz de distúrbios digestivos, que incluem uma ampla gama de condições como doença celíaca, intolerância ao glúten não celíaca, alergias alimentares, e outras intolerâncias digestivas, representa uma preocupação significativa de saúde pública. Estes distúrbios exigem dos indivíduos uma vigilância meticulosa e constante sobre sua dieta, a fim de evitar ingredientes específicos que podem desencadear sintomas debilitantes e potencialmente perigosos para a vida [4] [6]. A complexidade dos ingredientes contidos nos produtos alimentícios e a presença de alérgenos ocultos ou contaminantes cruzados compõem desafios adicionais para aqueles que buscam manter uma dieta segura e saudável [1] [2] [3].
+
+Este projeto é motivado pela necessidade crítica de fornecer soluções tecnológicas que auxiliem indivíduos afetados por distúrbios digestivos a navegar no complexo ambiente alimentar de hoje. Ele reconhece a diversidade das condições digestivas e a necessidade de abordagens personalizadas que atendam às demandas específicas de cada indivíduo [5]. A integração da pesquisa sobre aplicativos móveis existentes e o desenvolvimento de uma nova ferramenta tecnológica visa aproveitar o potencial da inovação para melhorar significativamente a autonomia e a qualidade de vida dessas pessoas, promovendo maior inclusão social e saúde.
+
+Através da avaliação da eficácia de aplicativos móveis atualmente disponíveis e do desenvolvimento subsequente de uma solução inovadora baseada nas lições aprendidas, este projeto pretende estabelecer novos padrões em assistência tecnológica para a gestão de distúrbios digestivos. O objetivo é criar uma ferramenta que não apenas facilite a identificação segura de alimentos, mas também forneça recursos educacionais e de suporte adaptados às diversas necessidades desses indivíduos, contribuindo assim para um bem-estar holístico e uma melhor saúde digestiva.
+
+Objetivos
+Objetivo geral
+
+Desenvolver e validar um aplicativo móvel baseado em evidências científicas para auxiliar na identificação de determinados componentes em produtos alimentícios.
+
+Objetivos específicos
+
+- Realizar uma análise comparativa da eficácia de aplicativos móveis existentes.
+- Identificar lacunas e oportunidades para o desenvolvimento de novas soluções tecnológicas.
+- Desenvolver um aplicativo móvel inovador que integre as melhores práticas identificadas na fase de pesquisa.
+- Avaliar a eficácia e usabilidade do aplicativo desenvolvido com o público-alvo.
+
+Metodologia
+Este projeto será conduzido em duas fases principais: a primeira fase focará na pesquisa sobre aplicativos móveis existentes, incluindo análise de eficácia, precisão e usabilidade. A segunda fase se concentrará no desenvolvimento de um novo aplicativo, incorporando as lições aprendidas na fase de pesquisa. Ambas as fases incluirão testes com usuários e feedback para iteração do desenvolvimento.
+
+Resultados Esperados
+Espera-se que o projeto resulte em um aplicativo móvel inovador, validado cientificamente, que melhore significativamente a capacidade das pessoas com distúrbios digestivos de identificar produtos seguros. Além disso, espera-se contribuir para o corpo de conhecimento em tecnologia assistiva e saúde pública, oferecendo insights importantes para a comunidade científica e desenvolvedores.
+
+Referências
+[1] Ludvigsson, J. F., Leffler, D. A., Bai, J. C., Biagi, F., Fasano, A., Green, P. H. R., ... & Murray, J. A. (2013). The Oslo definitions for coeliac disease and related terms. Gut, 62(1), 43-52. DOI: 10.1136/gutjnl-2011-301346.
+
+[2] Sicherer, S. H., & Sampson, H. A. (2014). Food allergy: Epidemiology, pathogenesis, diagnosis, and treatment. Journal of Allergy and Clinical Immunology, 133(2), 291-307. DOI: 10.1016/j.jaci.2013.11.020.
+
+[3] Fasano, A., & Catassi, C. (2012). Clinical practice. Celiac disease. The New England Journal of Medicine, 367(25), 2419-2426. DOI: 10.1056/NEJMcp1113994.
+
+[4] World Health Organization. (2017). Food safety. Disponível em: https://www.who.int/news-room/fact-sheets/detail/food-safety.
+
+[5] Zong, G., Gao, A., Hu, F. B., & Sun, Q. (2018). Whole Grain Intake and Mortality From All Causes, Cardiovascular Disease, and Cancer: A Meta-Analysis of Prospective Cohort Studies. Circulation, 133(24), 2370-2380. DOI: 10.1161/CIRCULATIONAHA.115.021101.
+
+[6] National Institute of Diabetes and Digestive and Kidney Diseases. (2017). Eating, Diet, & Nutrition for Irritable Bowel Syndrome. Disponível em: https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/eating-diet-nutrition. Acesso em: 09 fev. 2024.
+leia o texto e os documentos anexados, sintetiza um arquivo para contexto em .md 
